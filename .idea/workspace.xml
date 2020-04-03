@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4f3710f3-de0b-43bf-8c38-597d766ac2ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +156,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585751921537</updated>
       <workItem from="1585751936167" duration="3661000" />
-      <workItem from="1585823342210" duration="12556000" />
+      <workItem from="1585823342210" duration="12799000" />
+      <workItem from="1585912876764" duration="390000" />
     </task>
     <servers />
   </component>
@@ -170,10 +169,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="604" y="531" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585753251877" />
-    <state x="468" y="432" key="com.intellij.ide.util.TipDialog" timestamp="1585823342454">
+    <state x="468" y="432" key="com.intellij.ide.util.TipDialog" timestamp="1585912895440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="468" y="432" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585823342454" />
+    <state x="468" y="432" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585912895440" />
     <state x="636" y="127" width="786" height="786" key="find.popup" timestamp="1585828214415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
