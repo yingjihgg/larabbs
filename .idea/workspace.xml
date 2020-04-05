@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4f3710f3-de0b-43bf-8c38-597d766ac2ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Observers/ReplyObserver.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Observers/ReplyObserver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_04_05_150909_create_notifications_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_04_05_151517_add_notification_count_to_users_table.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +174,7 @@
       <workItem from="1585823342210" duration="12799000" />
       <workItem from="1585912876764" duration="7210000" />
       <workItem from="1586005484593" duration="7617000" />
-      <workItem from="1586068002416" duration="3246000" />
+      <workItem from="1586068002416" duration="5271000" />
     </task>
     <servers />
   </component>
